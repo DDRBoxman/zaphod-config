@@ -16,6 +16,8 @@
 #define FUN_L 5
 #define MED_L 6
 
+#define QWERTY_BASE
+
 // Using layer taps on thumbs, having quick tap as well helps w/ repeating space/backspace
 &lt { quick_tap_ms = <200>; };
 
